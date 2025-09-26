@@ -8,7 +8,7 @@
 🔧 Knowledgeable in relational and NoSQL databases including PostgreSQL, MySQL, and MongoDB for efficient data management.  
 📈 Passionate about solving complex problems and optimizing data workflows to drive analytics and business decisions.  
 🤝 Familiar with Agile methodologies, collaborating across teams to deliver impactful, high-quality solutions.  
-📫 Reach out via email: aishwaryad.official24@gmail.com  
+📫 Reach out via email: aishwaryad.office@gmail.com  
 
 
 
