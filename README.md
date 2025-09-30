@@ -12,7 +12,7 @@ Skilled in **SQL, Python, cloud platforms, and BI tools**, I enjoy solving compl
 
 ---
 
-## 🧰 Skills  
+## 🛠 Skills  
 ⚙️ **Languages**: Python, SQL, Java, Shell Scripting  
 📂 **Data Engineering**: ETL/ELT, Data Modeling, Workflow Automation, dbt  
 ⚡ **Big Data & Streaming**: Spark, PySpark, Kafka  
