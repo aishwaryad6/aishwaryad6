@@ -1,17 +1,25 @@
 # 👋 Hi, I’m Aishwarya  
 
 🎓 MS in Computer Science @ Texas A&M University–Kingsville  
-💼 4.5+ years of experience in Data Engineering and Analytics  
-📍 Austin, TX  
-📫 Reach me: **aishwaryad.office@gmail.com**  
+💼 4.5+ years of experience in data engineering and analytics  
+📍 Austin, TX • 📫 aishwaryad.office@gmail.com  
 
 ---
 
 ## 🚀 About Me  
-⚙️ Skilled in **SQL** and **Python** for data engineering and analytics workflows  
-☁️ Experienced with **cloud platforms** (AWS and Azure) to build scalable solutions  
-📊 Proficient in **BI tools** including Tableau and Power BI  
-📈 Focused on solving data challenges, automating workflows, and delivering actionable insights  
-🤝 Strong team collaborator with **Agile development experience**  
+I work across data engineering and analytics to transform raw data into reliable workflows, clean datasets, and actionable insights.  
+Skilled in **SQL, Python, cloud platforms, and BI tools**, I enjoy solving complex data challenges, automating workflows, and building solutions that help organizations make smarter, faster, data-driven decisions.  
 
 ---
+
+## 🧰 Skills  
+⚙️ **Languages**: Python, SQL, Java, Shell Scripting  
+📂 **Data Engineering**: ETL/ELT, Data Modeling, Workflow Automation, dbt  
+⚡ **Big Data & Streaming**: Spark, PySpark, Kafka  
+🔄 **Orchestration**: Apache Airflow, AWS Glue  
+📊 **Analytics & BI**: Tableau, Power BI, QuickSight, Excel (Advanced)  
+🗄️ **Databases**: PostgreSQL, MySQL, MS SQL Server, Oracle, MongoDB, Snowflake  
+☁️ **Cloud Platforms**: AWS (S3, Glue, Lambda, Athena, EMR, IAM), Azure (ADF, Data Lake, Databricks)  
+📚 **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
+🛠️ **Other Tools**: Git, Jenkins, Jira, Databricks  
+
