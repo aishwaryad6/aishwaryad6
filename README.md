@@ -23,3 +23,4 @@ Skilled in **SQL, Python, cloud platforms, and BI tools**, I enjoy solving compl
 📚 **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
 🛠️ **Other Tools**: Git, Jenkins, Jira, Databricks  
 
+---
