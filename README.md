@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Aishwarya  
 
 🎓 MS in Computer Science @ Texas A&M University–Kingsville  
-💼 4.5+ years of experience in data engineering and analytics  
+💼 4.5+ years of experience in Data Engineering and Analytics  
 📍 Austin, TX • 📫 aishwaryad.office@gmail.com  
 
 ---
