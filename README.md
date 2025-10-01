@@ -17,7 +17,7 @@ Skilled in **SQL, Python, cloud platforms, and BI tools**, I enjoy solving compl
 📂 **Data Engineering**: ETL/ELT, Data Modeling, Workflow Automation, dbt  
 ⚡ **Big Data & Streaming**: Spark, PySpark, Kafka  
 🔄 **Orchestration**: Apache Airflow, AWS Glue  
-📊 **Analytics & BI**: Tableau, Power BI, QuickSight, Excel (Advanced)  
+📊 **Analytics & BI**: Tableau, Power BI, Excel (Advanced)  
 🗄️ **Databases**: PostgreSQL, MySQL, MS SQL Server, Oracle, MongoDB, Snowflake  
 ☁️ **Cloud Platforms**: AWS (S3, Glue, Lambda, Athena, EMR, IAM), Azure (ADF, Data Lake, Databricks)  
 📚 **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
