@@ -1,26 +1,16 @@
-# 👋 Hi, I’m Aishwarya  
+# Hi there 👋  
 
-🎓 MS in Computer Science @ Texas A&M University–Kingsville  
-💼 4.5+ years of experience in Data Engineering and Analytics  
-📍 Austin, TX • 📫 aishwaryad.office@gmail.com  
+🚀 I'm **Aishwarya**, a data professional with 4.5+ years of experience in **data engineering and analytics**, passionate about transforming raw data into scalable pipelines, clean datasets, and actionable insights.  
 
----
+📚 Currently pursuing my **Master’s in Computer Science** at **Texas A&M University–Kingsville**, where I continue to sharpen my technical expertise in data systems and analytics.  
 
-## 🚀 About Me  
-I work across data engineering and analytics to transform raw data into reliable workflows, clean datasets, and actionable insights.  
-Skilled in **SQL, Python, cloud platforms, and BI tools**, I enjoy solving complex data challenges, automating workflows, and building solutions that help organizations make smarter, faster, data-driven decisions.  
+💻 Skilled in **SQL, Python, and cloud platforms (AWS, Azure)**, with expertise in **ETL workflows, data modeling, and BI tools** such as Tableau and Power BI.  
 
----
+🔍 Actively exploring opportunities in **Data Engineering** and **Data Analytics**, applying my technical expertise to build impactful, data-driven solutions.  
 
-## 🛠 Skills  
-⚙️ **Languages**: Python, SQL, Java, Shell Scripting  
-📂 **Data Engineering**: ETL/ELT, Data Modeling, Workflow Automation, dbt  
-⚡ **Big Data & Streaming**: Spark, PySpark, Kafka  
-🔄 **Orchestration**: Apache Airflow, AWS Glue  
-📊 **Analytics & BI**: Tableau, Power BI, Excel (Advanced)  
-🗄️ **Databases**: PostgreSQL, MySQL, MS SQL Server, Oracle, MongoDB, Snowflake  
-☁️ **Cloud Platforms**: AWS (S3, Glue, Lambda, Athena, EMR, IAM), Azure (ADF, Data Lake, Databricks)  
-📚 **Python Libraries**: Pandas, NumPy, Matplotlib, Seaborn, scikit-learn  
-🛠️ **Other Tools**: Git, Jenkins, Jira, Databricks  
+📧 Reach me at: **aishwaryad.office@gmail.com**  
+🌐 Explore my projects here: [GitHub Profile](https://github.com/aishwaryad6)  
+
+⚡ Fun fact: When I’m not engineering data solutions, I’m exploring creative ways to visualize real-world problems through dashboards.  
 
 ---
