@@ -8,9 +8,8 @@
 
 🔍 Actively exploring opportunities in **Data Engineering** and **Data Analytics**, applying my technical expertise to build impactful, data-driven solutions.  
 
-📧 Reach me at: **aishwaryad.office@gmail.com**  
-🌐 Explore my projects here: [GitHub Profile](https://github.com/aishwaryad6)  
-
 ⚡ Fun fact: When I’m not engineering data solutions, I’m exploring creative ways to visualize real-world problems through dashboards.  
+
+📧 Reach me at: **aishwaryad.office@gmail.com**  
 
 ---
