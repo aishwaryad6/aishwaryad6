@@ -8,7 +8,7 @@
 
 🔍 Actively exploring opportunities in **Data Engineering** and **Data Analytics**, applying my technical expertise to build impactful, data-driven solutions.  
 
-⚡ Fun fact: When I’m not engineering data solutions, I’m exploring creative ways to visualize real-world problems through dashboards.  
+⚡ Fun fact: Alongside building data pipelines, I love designing dashboards that turn complex challenges into simple, actionable insights.
 
 📧 Reach me at: **aishwaryad.office@gmail.com**  
 
