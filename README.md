@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-🚀 I'm Aishwarya, a data engineer with 4.5+ years of experience designing scalable data pipelines, building ETL workflows, and working with big data systems across cloud platforms.
+🚀 **I'm Aishwarya**, a data engineer with 4.5+ years of experience designing scalable data pipelines, building ETL workflows, and working with big data systems across cloud platforms.
 
 📚 Currently pursuing my **Master’s in Computer Science** at **Texas A&M University–Kingsville**, where I continue to deepen my skills in distributed processing, cloud architecture, and data platform engineering.
 
