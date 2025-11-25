@@ -1,12 +1,12 @@
 # Hi there 👋  
 
-🚀 **I'm Aishwarya**, a data professional with 4.5+ years of experience in Data Engineering and Analytics, designing scalable data pipelines, building ETL workflows, and working with big-data systems across cloud platforms.
+🚀 **I'm Aishwarya**, a data professional with 4.5+ years of experience in data engineering and analytics, designing scalable data pipelines, building ETL workflows, and working with big data systems across cloud platforms.
 
 📚 Currently pursuing my **Master’s in Computer Science** at **Texas A&M University–Kingsville**, where I continue to deepen my skills in distributed processing, cloud architecture, and data platform engineering.
 
-💻 Skilled in **SQL, Python, PySpark, Kafka, Airflow, and cloud services (AWS, Azure & GCP)** with experience in data ingestion, transformation, orchestration, and storage optimization.
+💻 Skilled in **SQL, Python, PySpark, Kafka, Airflow, and cloud services (AWS, Azure, and GCP)** with experience in data ingestion, transformation, orchestration, and storage optimization.
 
-📊 I specialize in building end-to-end data systems and use **BI tools like Tableau and Power BI** to validate or present results when needed.
+📊 I specialize in building end-to-end data systems and use **BI tools like Tableau and Power BI** to validate insights or present results.
 
 🔍 I’m currently working on projects involving **real-time streaming, batch processing, orchestration, and cloud-based pipeline design**, while actively exploring data engineering opportunities.
 
