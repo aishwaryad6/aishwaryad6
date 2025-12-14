@@ -10,7 +10,7 @@
 
 🔍 Currently working on **real-time and batch data pipelines, orchestration, and cloud-based data platforms**, and actively exploring data engineering opportunities.
 
-⚡ Outside of pipeline development, I enjoy solving complex data problems—whether that means optimizing workflows, improving performance, or turning raw data into clear, meaningful insights.
+⚡ In addition to building data pipelines, I enjoy solving complex data problems, including optimizing workflows, improving performance, and turning raw data into clear insights.
 
 📧 **Reach me at:** aishwaryad.office@gmail.com
 
