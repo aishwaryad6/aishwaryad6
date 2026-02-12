@@ -6,7 +6,7 @@
 
 💻 I work regularly with **SQL, Python, PySpark, Kafka, Airflow**, and cloud services across **AWS, Azure, and GCP**, with hands-on experience in data ingestion, transformation, orchestration, and storage optimization.
 
-📊 I enjoy building **end-to-end data systems** and use BI tools like **Tableau and Power BI** to validate results, monitor performance, and communicate insights.
+📊 I build **end-to-end data systems** and use BI tools like **Tableau and Power BI** to validate results, monitor performance, and communicate insights.
 
 🔍 Currently working on **real-time and batch data pipelines, orchestration, and cloud-based data platforms**, and actively exploring data engineering opportunities.
 
