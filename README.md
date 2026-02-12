@@ -1,6 +1,6 @@
 # Hi there 👋  
 
-🚀 I’m **Aishwarya**, a data engineering and analytics professional with **6+ years of experience** working on data pipelines, ETL workflows, and analytics systems across cloud platforms. I enjoy building data systems that are reliable, scalable, and practical to use.
+🚀 I’m **Aishwarya**, a data engineering professional with **6+ years of experience** working on data pipelines, ETL workflows, and analytics systems across cloud platforms. I enjoy building data systems that are reliable, scalable, and practical to use.
 
 📚 I’m currently pursuing my **Master’s in Computer Science at Texas A&M University-Kingsville**, where I’m continuing to strengthen my skills in distributed systems, cloud architecture, and data platform engineering.
 
