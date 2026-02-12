@@ -12,6 +12,6 @@
 
 ⚡ In addition to building data pipelines, I enjoy solving complex data problems, including optimizing workflows, improving performance, and transforming raw data into high-quality, usable datasets.
 
-📧 **Reach me at:** aishwaryad.official24@gmail.com
+📧 **Email:** aishwaryad.official24@gmail.com
 
 
