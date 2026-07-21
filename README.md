@@ -8,7 +8,7 @@
 
 📊 I build **end-to-end data systems** and use BI tools like **Tableau and Power BI** to validate results, monitor performance, and communicate insights.
 
-🔍 Currently working on **real-time and batch data pipelines, orchestration, and cloud-based data platforms**, and actively exploring data engineering opportunities.
+🔍 Currently working on **data pipelines, orchestration, and cloud-based data platforms**, and actively exploring data engineering opportunities.
 
 ⚡ In addition to building data pipelines, I enjoy solving complex data problems, including optimizing workflows, improving performance, and transforming raw data into high-quality, usable datasets.
 
