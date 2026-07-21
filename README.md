@@ -4,7 +4,7 @@
 
 📚 I am currently pursuing my **Master’s in Computer Science at Texas A&M University-Kingsville**, where I am continuing to strengthen my skills in distributed systems, cloud architecture, and data platform engineering.
 
-💻 I work regularly with **SQL, Python, PySpark, Kafka, Airflow**, and cloud services across **AWS, Azure, and GCP**, with hands-on experience in data ingestion, transformation, orchestration, and storage optimization.
+💻 I work regularly with **SQL, Python, PySpark, Kafka, Airflow**, and cloud services across **AWS and Azure**, with hands-on experience in data ingestion, transformation, orchestration, and storage optimization.
 
 📊 I build **end-to-end data systems** and use BI tools like **Tableau and Power BI** to validate results, monitor performance, and communicate insights.
 
